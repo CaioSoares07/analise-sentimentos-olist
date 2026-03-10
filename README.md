@@ -18,7 +18,7 @@ Este projeto foi desenvolvido com o objetivo de automatizar a classificação de
 
 ## Resultados
 O modelo demonstra eficácia ao identificar corretamente o sentimento de frases contextualizadas. 
-* *Nota: O projeto também incluiu uma análise crítica sobre o desbalanceamento de dados e o impacto do sarcasmo em avaliações de e-commerce.*
+
 
 ---
 
