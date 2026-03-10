@@ -21,4 +21,4 @@ O modelo demonstra eficácia ao identificar corretamente o sentimento de frases 
 * *Nota: O projeto também incluiu uma análise crítica sobre o desbalanceamento de dados e o impacto do sarcasmo em avaliações de e-commerce.*
 
 ---
-*Projeto desenvolvido como parte do aprendizado em Ciência de Dados.*
+
